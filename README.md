@@ -7,12 +7,12 @@ I Hope you enjoy ;D
 YouTube demo: https://youtu.be/i5am31UBtJE
 
 Contact me on:
-**Gmail : Alisafi.Engineer@gmail.com
-Telegram : @AliDesu**
+*Gmail : Alisafi.Engineer@gmail.com
+Telegram : @AliDesu
 
-**What's New:**
-# Fixed some bugs
-# Added "List Generator" option for generate Hashed list. Just "Hash list" for now.
+# What's New:
+***Fixed some bugs
+Added "List Generator" option for generate Hashed list. Just "Hash list" for now.***
 
-**What's in next release:**
-# "Passphrase list generator"
+# What's in next release:
+***"Passphrase list generator"
