@@ -11,7 +11,7 @@ Contact me on:
 Telegram : @AliDesu
 
 # What's New:
-***Fixed some bugs***
+***Fixed some bugs.***
 ***Added "List Generator" option for generate Hashed list. Just "Hash list" for now.***
 
 # What's in next release:
