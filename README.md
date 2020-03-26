@@ -8,7 +8,7 @@ YouTube demo: https://youtu.be/i5am31UBtJE
 
 Contact me on:
 *Gmail : Alisafi.Engineer@gmail.com
-Telegram : @AliDesu
+Telegram : @AliDesu*
 
 # What's New:
 ***Fixed some bugs.***
