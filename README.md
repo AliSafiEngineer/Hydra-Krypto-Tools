@@ -12,6 +12,8 @@ Gmail : Alisafi.Engineer@gmail.com
 
 Telegram : @AliDesu
 
+Instagram : alisafi.engineer
+
 # What's New:
 **Fixed some bugs.**
 
