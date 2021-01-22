@@ -20,4 +20,4 @@ Instagram : alisafi.engineer
 **Added "Passphrase list generator" option for generate passphrase list.**
 
 # What's in next release:
-**I'll announce later here**
+**Pause operation option**
